@@ -7,6 +7,6 @@
 I’m an application developer who is passionate about exploring new things. My strongest skill is Problem Solving. Being able to gather client’s requirements and translate those into an engaging, effective and unique applications is what has helped me obtain good knowledge on the technologies that I worked.
 
 - 🔭 I’m currently working on Hybrid Mobile Apps using React Native.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Electron.JS to build Desktop applications.
 - 😄 Pronouns: he/him
 -  ⚡ Languages: JavaScript, Java, Python3, C, C++
