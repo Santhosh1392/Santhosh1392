@@ -9,4 +9,5 @@ I’m an application developer who is passionate about exploring new things. My 
 - 🔭 I’m currently working on Hybrid Mobile Apps using React Native.
 - 🌱 I’m currently learning Electron.JS to build Desktop applications.
 - 😄 Pronouns: he/him
--  ⚡ Languages: JavaScript, Java, Python3, C, C++
+-  ⚡ Languages: JavaScript, Java, Python3, C, TypeScript
+-    Frameworks/Library: React.JS, Next.JS, React Native, Electron.JS, Angular.JS
